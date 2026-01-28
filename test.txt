@@ -43,3 +43,1234 @@ Payment, GST, revenue report കാണും
 Emergency situation-ൽ system lock ചെയ്യാം
 
 👉 Final authority always SuperAdmin-ന്റെ കൈയിലാണ്.
+Management-ന് full administrative control
+
+Candidates-ക്ക് simple, transparent & user friendly experience
+16. Category Based Audition Structure (Point 32)
+Audition system:
+
+16 different categories ഉണ്ടായിരിക്കണം
+
+Each category-ൽ:
+
+Maximum 30 candidates മാത്രം select ചെയ്യാൻ പാടുള്ളൂ
+
+City wise audition rule:
+
+ഒരു city-യിൽ ഒരുതവണ മാത്രമേ audition നടക്കുകയുള്ളൂ
+
+Same city-ൽ repeat audition system allow ചെയ്യരുത്
+
+Selection logic:
+
+Category-wise audition complete ആയതിന് ശേഷം
+
+Best performing candidates മാത്രം final selection-ലേക്ക് പോകും
+
+Category allotment:
+
+Registration സമയത്ത് candidate category select ചെയ്യണം
+
+Admin-ന് backend-ൽ category change ചെയ്യാനുള്ള option ഉണ്ടായിരിക്കണം
+
+17. Management Authority on Candidate Count (Point 33)
+Final selected candidates count:
+
+Default rule → category-ക്ക് 30 candidates
+
+Management-ന് full authority ഉണ്ടായിരിക്കണം:
+
+Selected candidates count increase / decrease ചെയ്യാൻ
+
+Any category-ൽ required candidates കുറയ്ക്കുകയോ കൂട്ടുകയോ ചെയ്യാൻ
+
+Terms & Conditions-ൽ mandatory clause:
+
+“Management reserves the right to modify the number of selected candidates at any stage of the selection process.”
+
+18. AI Chatbot + Human Support System (Point 34)
+AI Chatbot:
+
+General queries, registration doubts, audition info handle ചെയ്യണം
+
+Complaint handling:
+
+Chatbot വഴി complaint raise ചെയ്യാൻ option ഉണ്ടായിരിക്കണം
+
+Human chat escalation:
+
+If chatbot unable to resolve issue:
+
+Human chat support option enable ചെയ്യണം
+
+Admin / support team:
+
+Backend dashboard-ൽ complaints view & respond ചെയ്യണം
+
+Chat history:
+
+Candidate profile-ൽ complaint & chat history save ആവണം
+
+Future reference-നായി backend-ൽ store ചെയ്യണം
+
+19. Updated Terms & Conditions Clauses (Add-on)
+Terms & Conditions-ൽ താഴെ പറയുന്ന points explicitly mention ചെയ്യണം:
+
+Selection process:
+
+“Selection is purely based on performance and management decision.”
+
+Category & count:
+
+“Number of candidates per category may vary based on management discretion.”
+
+City audition rule:
+
+“Only one audition will be conducted per city.”
+
+Chat & support:
+
+“Complaints raised through chatbot may be escalated to human support if required.”
+
+Legal consent:
+
+Registration completion itself = acceptance of all current & future terms
+
+20. Final Summary 
+ഈ software:
+
+Multi-category audition management system ആണ്
+
+AI + Human assisted support ഉള്ള platform ആണ്
+
+City-wise audition control enforce ചെയ്യുന്നു
+
+Management-ന്:
+
+Selection count
+
+Category control
+
+Schedule changes
+
+Final decision authority
+
+Candidates-ന്:
+
+Transparent process
+
+Real-time updates
+
+Profile-based tracking
+
+Certificate & result access
+
+
+ സെലക്ട് ആയിട്ടുള്ള കാൻഡിനേറ്റ്‌സിന്റെ പബ്ലിഷിംഗ് സ്റ്റാറ്റസ് ഓഫ് ചെയ്യുന്നതിനുള്ള അധികാരം കമ്പനിക്ക് ഉണ്ട്
+
+21. Publishing Control & Visibility Rights 
+Selected candidates:
+
+Default ആയി published / visible status ON ആയിരിക്കും
+
+Company / Management-ന് full authority ഉണ്ടായിരിക്കണം:
+
+Any selected candidate-ന്റെ
+
+Publishing status OFF / HIDE ചെയ്യാൻ
+
+Profile public visibility disable ചെയ്യാൻ
+
+Publishing OFF ചെയ്താൽ:
+
+Candidate profile:
+
+Public view-ൽ കാണിക്കരുത്
+
+Programs / promotions / ads-ൽ ഉൾപ്പെടുത്തരുത്
+
+This control:
+
+Admin backend dashboard-ൽ simple toggle switch ആയി ഉണ്ടായിരിക്കണം
+
+Candidate notification:
+
+Publishing status change ആയാൽ
+
+Email / profile notification വഴി candidate-നെ inform ചെയ്യണം 
+
+22. Updated Terms & Conditions – Publishing Clause 
+Terms & Conditions-ൽ താഴെ പറയുന്ന clause mandatory ആയി include ചെയ്യണം:
+“Selected candidates’ profiles may be published or unpublished at any time based on company or management discretion. Sparrot Media reserves full rights to control the visibility and publishing status of any candidate profile.”
+
+Registration സമയത്ത്:
+
+Candidate ഈ clause accept ചെയ്യണം
+
+Checkbox mandatory ആയിരിക്കണം
+
+23. Final Consolidated Scope 
+ഈ software-ൽ management-ന് ലഭിക്കുന്ന rights:
+
+Selection decision
+
+Candidate count variation
+
+Category control
+
+City-wise audition restriction
+
+Time & slot modification
+
+Result declaration
+
+Complaint handling escalation
+
+Profile publishing ON / OFF control
+24.സെലക്ടഡ് ആയിട്ടുള്ള കാൻഡിഡേറ്റ്സിന് സെലക്ഷൻ ഡീറ്റെയിൽസ് എസ്എംഎസ് ഇമെയിൽ ആയും ഷെയർ ചെയ്യാൻ സാധിക്കേണ്ടതാണ്
+ 25.സെലക്ട് ആവാത്ത
+കാൻഡിഡേറ്റ്സിന് സെലക്ട് ആയിട്ടില്ല എന്ന് വിവരം അറിയിക്കുകയും നിങ്ങളുടെ ഡാറ്റ വേറെ സെലക്ഷൻ യൂസിനു വേണ്ടി ഉപയോഗിക്കുന്നതാണ് എന്നും അറിയിക്കേണ്ടതാണ്
+Terms and conditions ഡാറ്റ മറ്റു dedecated കമ്പനികളുമായി ഷെയർ ചെയ്യുന്നതിൽ എനിക്ക് വിരോധമില്ല എന്ന് കൂടി ആഡ് ചെയ്യണം
+26. സോഫ്റ്റ്‌വെയറിനു വേണ്ടിയിട്ടുള്ള ഇൻവോയ്സ് ആൻഡ് റെസിപ്റ്റ് ഡിസൈൻ ചെയ്തു ഉണ്ടാക്കണം ജിഎസ്ടി ബില്ല് സർവീസ് സെക്ടറിൽ ടാക്സി വോയിസ് ആഡ് ചെയ്തു കൊടുക്കണം
+ 27. രജിസ്ട്രേഷൻ, ഓഡിഷൻ,സെലക്ഷൻ, finale തുടങ്ങിയ എല്ലാ സെക്ക്‌ഷനു കളുടെയും ഡീറ്റെയിൽസ് ഇമെയിലും എസ്എംഎസിലും പോകേണ്ടതാണ് പിഡിഎഫ് ഫയൽ ആയിട്ട് ഇൻവോയ്സ് സെക്ഷനും ഇമെയിൽ ആൻഡ് എസ്എംഎസ് ചെയ്യാൻ സാധിക്കണം
+28. രണ്ടുതരം സ്റ്റേറ്റ്മെന്റുകൾ പ്രിന്റ് ചെയ്തു വരണം രജിസ്ട്രേഡ് മെമ്പേഴ്സിന്റെയും സ്റ്റേറ്റ്മെന്റ് അതായത് രജിസ്ട്രേഷൻ ഫീസ് ഡീറ്റൈൽസും ഉണ്ടാവണം
+29. സെലക്ഷൻ പ്രോസസ് കഴിഞ്ഞ് ലോഗിൻ തീർത്ത് റിസൾട്ട് വന്നു കഴിഞ്ഞാൽ 30 കൂടുതൽ സെലക്ടഡ് ആവേണ്ട അളവിൽ കൂടുതലുള്ള പ്രൊഫൈൽ സുകൾ നീക്കം ചെയ്യാവുന്നതാണ് പിന്നീട് അഡാറ്റ സെലക്ട് ആവാത്ത കാ
+
+Miss & Mrs Beauty Icon India – Project Explanation
+Project Overview
+Miss & Mrs Beauty Icon India എന്നത് Sparrot Media organize ചെയ്യുന്ന
+ഒരു National + International Beauty Pageant ആണ്.
+ഇത് manage ചെയ്യാൻ ഉള്ളത് ഒരു complete digital system ആണ്.
+👉 Registration മുതൽ
+👉 Audition
+👉 Judging
+👉 Training
+👉 Goa Finale
+👉 Dubai Grand Finale
+ഇവയെല്ലാം ഒറ്റ website + ഒറ്റ system വഴി handle ചെയ്യും.
+
+
+User Roles & System Control
+ഈ system-ൽ different users ഉണ്ട്,
+ഓരോരുത്തർക്കും അവരവരുടെ limits ഉണ്ട്.
+
+ SuperAdmin (Sparrot Media Owner)
+SuperAdmin എന്ന് പറഞ്ഞാൽ system owner.
+SuperAdmin ചെയ്യുന്നത്:
+•	Registration open / close ചെയ്യാം
+•	Admin-നെ create / remove ചെയ്യാം
+•	Judges assign ചെയ്യാം
+•	Final results approve ചെയ്യാം
+•	Tie case വന്നാൽ final decision എടുക്കാം
+•	Payment, GST, revenue എല്ലാം കാണാം
+•	Problem വന്നാൽ system lock ചെയ്യാം
+👉 Final word എപ്പോഴും SuperAdmin-ന്റെതാണ്.
+
+Admin (Office / Operations Team)
+Admin ആണ് daily work handle ചെയ്യുന്നത്.
+Admin ചെയ്യുന്നത്:
+•	Contestants-ന്റെ data manage ചെയ്യുക
+•	Category-wise list കാണുക
+•	Audition slots create ചെയ്യുക
+•	Slot contestants-ന് assign ചെയ്യുക
+•	Email & SMS അയക്കുക
+•	Late candidates-ന് slot change ചെയ്യുക
+•	Reports print / export ചെയ്യുക
+❌ Admin-ന് final result publish ചെയ്യാൻ പറ്റില്ല
+❌ Judge marks change ചെയ്യാൻ പറ്റില്ല
+
+ Judge
+Judges-ന് very limited access മാത്രം.
+Judge rules:
+•	Secure login (usually one-time)
+•	Assigned contestants-നെ മാത്രം കാണാം
+•	Assigned slot-ൽ മാത്രം marks ഇടാം
+•	Other judges marks കാണാൻ പറ്റില്ല
+•	Total score കാണാൻ പറ്റില്ല
+Judging:
+•	3 rounds ആയി നടക്കും
+•	Each round separate evaluation
+👉 Transparency maintain ചെയ്യാൻ ഇതൊക്കെ mandatory.
+
+ Contestant
+Contestant ആണ് system-ന്റെ main user.
+Contestant flow:
+•	Online register ചെയ്യുന്നു
+•	₹99 payment ചെയ്യുന്നു (refund ഇല്ല)
+•	Username & password email-ൽ കിട്ടും
+•	Login ചെയ്ത് profile complete ചെയ്യുന്നു
+•	Audition slot details കാണാം
+•	Audition attend ചെയ്യുന്നു
+•	Result കാണാം
+•	Certificate download ചെയ്യാം
+•	Selected ആണെങ്കിൽ training + finale access
+
+ Public User
+Login വേണ്ട.
+Public users:
+•	Results കാണാം
+•	Name + mobile number use ചെയ്ത് status check ചെയ്യാം
+•	Event details കാണാം
+•	Registration ചെയ്യാം
+
+ Registration Flow (Simple ആയി)
+Registration എങ്ങനെ നടക്കും?
+1️ User register ചെയ്യുന്നു
+2️Terms & Conditions accept ചെയ്യണം
+3️ ₹99 Razorpay വഴി payment
+4️ Payment success ആയാൽ
+5️ System auto account create ചെയ്യും
+6️ Username & password email-ൽ അയക്കും
+️ Important point:
+👉 Registration സമയത്ത് category select ചെയ്യില്ല
+Why?
+•	Wrong category select ചെയ്യാതിരിക്കാൻ
+•	Dispute avoid ചെയ്യാൻ
+•	Full control Admin-ന് കൊടുക്കാൻ
+
+Profile Creation
+Login ചെയ്ത ശേഷം contestant:
+•	Personal details fill ചെയ്യും
+•	DOB, age add ചെയ്യും
+•	Photos upload ചെയ്യും
+•	Social media links add ചെയ്യും
+Profile status:
+Draft → Completed
+👉 Profile complete ആകാതെ slot assign ചെയ്യില്ല.
+
+Category & Slot System
+Total 16 categories ഉണ്ട്.
+Each category-ക്ക്:
+•	Different audition slots ഉണ്ടാകും
+Slot details:
+•	Date
+•	Time
+•	Venue
+•	Capacity
+Admin ചെയ്യുന്നത്:
+•	Slots create ചെയ്യുന്നു
+•	Contestants slot-ൽ assign ചെയ്യുന്നു
+•	Slot details email + SMS ആയി അയക്കും
+
+ Audition & Judging
+•	Auditions slot-based ആണ്
+•	Judges slot-wise assign ചെയ്യും
+•	3 rounds of judging
+•	System auto score calculate ചെയ്യും
+•	Judges final score കാണില്ല
+Tie case വന്നാൽ:
+👉 SuperAdmin final decision എടുക്കും
+
+Selection Process
+Goa Finale
+•	180 contestants select ചെയ്യും
+•	National-level final stage
+•	Training access start ചെയ്യും
+Dubai Grand Finale
+•	300 contestants
+•	Goa winners promote ചെയ്യും
+•	International finale
+
+Unselected Candidates
+Select ആയില്ലെങ്കിൽ:
+•	Rejection message അയക്കും
+•	Profile auto disable ചെയ്യും
+•	Data future opportunities-ക്ക് store ചെയ്യും
+•	Dubai select ആയില്ലെങ്കിൽ → 1 year lock
+
+ Certificates
+3 type certificates:
+•	Training Certificate
+•	Ramp Walk Certificate
+•	Winner Certificate
+Features:
+•	PDF download
+•	Email & SMS
+•	Different designs
+•	QR verification
+
+QR Code Entry
+•	Each contestant-ന് unique QR code
+•	Active:
+o	Event-ന് 30 min before
+o	Event-ന് 30 min after
+•	Multiple gates support
+•	Entry & exit digitally track ചെയ്യും
+
+ Notifications
+Email:
+•	Registration confirmation
+•	Slot invitation
+•	Payment receipt
+•	Results
+•	Certificates
+SMS:
+•	Important alerts
+•	Winner messages
+ Live Streaming
+•	Auditions live stream
+•	Goa Finale live
+•	Dubai Finale live
+•	Slot-based access
+•	Admin control links
+
+ Chatbot Support
+•	24/7 chatbot
+•	ChatGPT powered
+•	Common doubts answer ചെയ്യും
+•	All pages-ലും available
+
+Technology Stack (Simple)
+Frontend:
+•	React.js
+•	Mobile friendly
+Backend:
+•	REST APIs
+•	Secure authentication
+•	MySQL database
+Integrations:
+•	Razorpay
+•	Email & SMS
+•	QR Code
+•	ChatGPT
+
+Why This Project is Strong
+✔ 1 lakh+ registrations handle ചെയ്യാം
+✔ Judging transparent ആണ്
+✔ Admin full control
+✔ Payment secure
+✔ International level ready
+
+Final Summary (Spoken Style)
+“Registration മുതൽ Dubai Grand Finale വരെ beauty pageant-ന്റെ എല്ലാ process-ഉം safe ആയിട്ടും transparent ആയിട്ടും handle ചെയ്യുന്ന complete digital system ആണ് ഇത്.” use this two documents and give a clear explanation of project in vocal malayalam 
+
+
+
+ശരി 👍
+ഇത് formal / textbook Malayalam അല്ല.
+ഒരു client-നോട് അല്ലെങ്കിൽ team-നോട് സംസാരിക്കുന്ന പോലെ, easy ആയി മനസിലാകുന്ന vocal Malayalam-ലാണ് ഞാൻ explain ചെയ്യുന്നത്.
+
+🎤 Miss & Mrs Beauty Icon India – Project Explanation (Vocal Malayalam)
+
+ഇത് basically Sparrot Media organize ചെയ്യുന്ന Miss & Mrs Beauty Icon India എന്ന beauty pageant മുഴുവനായും manage ചെയ്യാൻ ഉള്ള one complete digital system ആണ്.
+
+ഇപ്പൊ manual ആയി നടക്കുന്ന
+registration, audition, judging, selection, training, finale
+ഇവ എല്ലാം ഒറ്റ website + ഒറ്റ software വഴി handle ചെയ്യാനാണ് ഈ project.
+
+👉 Registration മുതൽ
+👉 Audition
+👉 Judging (3 rounds)
+👉 Training
+👉 Goa National Finale
+👉 Dubai International Grand Finale
+
+ഇവ എല്ലാം step by step system control ചെയ്യും.
+
+👥 System-ൽ ഉള്ള ആളുകൾ (Roles)
+
+ഈ system-ൽ എല്ലാവർക്കും same power ഇല്ല.
+Role-based access ആണ്.
+
+🔴 SuperAdmin (Company Owner – Sparrot Media)
+
+SuperAdmin എന്നാണ് പറയുന്നത് company owner level.
+
+SuperAdmin ചെയ്യുന്നത്:
+
+Registration open / close ചെയ്യാം
+
+Admin accounts create / delete ചെയ്യാം
+
+Judges assign ചെയ്യാം
+
+Final results approve ചെയ്യാം
+
+Tie case വന്നാൽ final decision എടുക്കും
+
+Payment, GST, revenue report കാണും
+
+Emergency situation-ൽ system lock ചെയ്യാം
+
+👉 Final authority always SuperAdmin-ന്റെ കൈയിലാണ്.
+
+🔵 Admin (Office / Operations Team)
+
+Admin ആണ് daily work handle ചെയ്യുന്നത്.
+
+Admin ചെയ്യുന്നത്:
+
+Contestants data view ചെയ്യുക
+
+Category wise list കാണുക
+
+Audition slots create ചെയ്യുക
+
+Date, time, venue set ചെയ്യുക
+
+Candidates-നെ slot assign ചെയ്യുക
+
+Email + SMS notifications അയക്കുക
+
+Reports print / export ചെയ്യുക
+
+❌ Admin-ന് final result publish ചെയ്യാൻ പറ്റില്ല
+❌ Judge marks change ചെയ്യാൻ പറ്റില്ല
+
+🟠 Judge
+
+Judges-ന് very limited access മാത്രം.
+
+Judge-ന്:
+
+Assigned slot-ലെ candidates മാത്രം കാണാം
+
+Criteria wise marks ഇടാം
+
+Other judges marks കാണാൻ പറ്റില്ല
+
+Final score കാണാൻ പറ്റില്ല
+
+Judging:
+
+Total 3 rounds
+
+Each round separate evaluation
+
+👉 Transparency maintain ചെയ്യാൻ ഇതൊക്കെ mandatory ആണ്.
+
+🟢 Contestant
+
+Contestant ആണ് system-ന്റെ main user.
+
+Contestant flow:
+
+Online registration
+
+₹99 payment (non-refundable)
+
+Username & password email-ൽ കിട്ടും
+
+Login ചെയ്ത് profile complete ചെയ്യണം
+
+Audition slot details കാണാം
+
+Audition attend ചെയ്യുന്നു
+
+Result കാണാം
+
+Certificate download ചെയ്യാം
+
+Selected ആണെങ്കിൽ training + finale details കാണാം
+
+⚪ Public User
+
+Login വേണ്ട.
+
+Public user ചെയ്യുന്നത്:
+
+Result check ചെയ്യാം
+
+Name + mobile number use ചെയ്ത് status കാണാം
+
+Event details കാണാം
+
+Registration ചെയ്യാം
+
+📝 Registration System (Simple Explanation)
+
+Registration process:
+
+User register ചെയ്യുന്നു
+
+Terms & Conditions accept ചെയ്യണം
+
+₹99 Razorpay payment
+
+Payment success ആയാൽ
+
+System auto account create ചെയ്യും
+
+Username & password email-ൽ അയക്കും
+
+⚠️ Important rule
+👉 Registration സമയത്ത് category select ചെയ്യില്ല
+
+Why?
+
+Wrong category selection avoid ചെയ്യാൻ
+
+Dispute വരാതിരിക്കാൻ
+
+Admin-ന് full control കൊടുക്കാൻ
+
+👤 Profile Creation
+
+Login ചെയ്ത ശേഷം contestant:
+
+Personal details fill ചെയ്യും
+
+DOB, age add ചെയ്യും
+
+Photos upload ചെയ്യും
+
+Social media links add ചെയ്യും
+
+Profile status:
+
+Draft → Completed
+
+👉 Profile complete ആകാതെ audition slot assign ചെയ്യില്ല
+
+🗂️ Category & Slot Management
+
+Total 16 categories
+
+Each category-ക്ക് audition slots ഉണ്ടാകും
+
+Slot details:
+
+Date
+
+Time
+
+Venue
+
+Capacity
+
+Admin:
+
+Slots create ചെയ്യും
+
+Candidates assign ചെയ്യും
+
+Slot details email + SMS ആയി അയക്കും
+
+🎯 Audition & Judging
+
+Auditions slot-based ആണ്
+
+Judges slot-wise assign ചെയ്യും
+
+3 rounds of judging
+
+System auto score calculate ചെയ്യും
+
+Tie case:
+👉 SuperAdmin final decision എടുക്കും
+
+🏆 Selection Process
+Goa National Finale
+
+180 contestants
+
+Training access enable ചെയ്യും
+
+Dubai International Finale
+
+300 contestants
+
+Goa winners promote ചെയ്യും
+
+❌ Unselected Candidates
+
+Select ആയില്ലെങ്കിൽ:
+
+Rejection message അയക്കും
+
+Profile auto disable
+
+Data future opportunities-ക്ക് store
+
+Dubai select ആയില്ലെങ്കിൽ → 1 year lock
+
+📜 Certificates
+
+3 types:
+
+Training Certificate
+
+Ramp Walk Certificate
+
+Winner Certificate
+
+Features:
+
+PDF download
+
+Email + SMS
+
+QR verification
+
+🔳 QR Code Entry System
+
+Each contestant-ന് unique QR
+
+Active only:
+
+Event-ന് 30 min before
+
+Event-ന് 30 min after
+
+Multiple gates support
+
+Entry & exit track ചെയ്യും
+
+📧 Notifications
+
+Email:
+
+Registration confirmation
+
+Slot invitation
+
+Payment receipt
+
+Results
+
+Certificates
+
+SMS:
+
+Important alerts
+
+Winner messages
+
+🎥 Live Streaming
+
+Auditions live stream
+
+Goa finale live
+
+Dubai finale live
+
+Slot-based access
+
+Admin control
+
+🤖 Chatbot Support
+
+24/7 chatbot
+
+ChatGPT powered
+
+Common doubts answer ചെയ്യും
+
+Complaints raise ചെയ്യാം
+
+Human support escalation possible
+
+🛠️ Technology (Simple)
+
+Frontend:
+
+React.js
+
+Mobile friendly SPA
+
+Backend:
+
+REST APIs
+
+Secure authentication
+
+MySQL database
+
+Integrations:
+
+Razorpay
+
+Email & SMS
+
+QR Code
+
+ChatGPT
+
+🏁 Final Spoken Summary
+
+👉 “Registration മുതൽ Dubai Grand Finale വരെ beauty pageant-ന്റെ എല്ലാ stages-ഉം manual tension ഇല്ലാതെ, secure ആയിട്ടും transparent ആയിട്ടും handle ചെയ്യുന്ന ഒരു complete digital system ആണ് Miss & Mrs Beauty Icon India platform.”
+
+ഇത്:
+
+Company-ക്ക് full control
+
+Candidates-ക്ക് clarity
+
+Judges-ക്ക് transparency
+
+Management-ക്ക് power
+
+👉 One system. One control. Full automation.
+
+നിനക്ക് വേണമെങ്കിൽ അടുത്തതായി:
+
+📌 Architecture diagram
+
+📌 Database structure
+
+📌 Admin / Judge dashboard wireframe
+
+📌 1-month development plan
+
+ഇതിലേതെങ്കിലും ഞാൻ next explain ചെയ്യാം 👍
+
+when the contestants create profile the admin can see all the contestants category wise 
+and admin sent the ivvitation catogry wise with differant venue and differant date and time.how to implement it
+
+Good question 👍
+ഇത് core flow ആണ്. ഞാൻ ഇത് practical implementation + logic ആയി, spoken Malayalam-ൽ explain ചെയ്യാം.
+
+🎯 Goal (Simple ആയി)
+
+Contestants profile create ചെയ്താൽ:
+
+Admin-ന് category-wise list കാണണം
+
+Admin-ന് each category-ക്ക് different venue / date / time set ചെയ്യണം
+
+Admin category-wise invitation send ചെയ്യണം (Email + SMS)
+
+ഇത് clean ആയി implement ചെയ്യാൻ 3 main parts ഉണ്ട്:
+
+🧱 PART 1: Category-wise Contestant Visibility
+🔑 Important Rule
+
+Registration സമയത്ത് category select ചെയ്യുന്നില്ല
+Admin later assign ചെയ്യുന്നു
+
+🗂️ Database Logic (Simple)
+
+Contestant Table
+
+id
+
+name
+
+email
+
+mobile
+
+profile_status (draft / completed)
+
+category_id (NULL initially)
+
+Category Table
+
+id
+
+category_name (Miss Teen, Mrs, etc.)
+
+👉 Profile completed ആയ contestant-നെ Admin:
+
+backend-ൽ category assign ചെയ്യും
+
+🖥️ Admin Dashboard – Category View
+
+Admin dashboard-ൽ:
+
+Category dropdown / tabs
+
+Category 1
+
+Category 2
+
+Category 3 …
+
+Admin ചെയ്യുന്നത്:
+
+Category select ചെയ്യുന്നു
+
+System:
+
+WHERE category_id = X AND profile_status = completed
+
+That category contestants list show ചെയ്യും
+
+👉 ഇതാണ് category-wise visibility
+
+🧱 PART 2: Category-wise Slot / Venue / Date / Time Creation
+
+ഇവിടെ slot system ആണ് main.
+
+📅 Slot Table Structure
+
+AuditionSlot Table
+
+id
+
+category_id
+
+venue
+
+date
+
+start_time
+
+end_time
+
+max_capacity
+
+status (open / closed)
+
+Admin:
+
+Each category-ക്ക് multiple slots create ചെയ്യാം
+
+Same category-ക്ക് different venues + different dates
+
+Example:
+
+Miss Teen → Calicut → 10 AM
+
+Miss Teen → Kochi → 2 PM
+
+Mrs → Bangalore → 11 AM
+
+🔗 Slot Assignment Table
+
+SlotAssignment Table
+
+id
+
+slot_id
+
+contestant_id
+
+invitation_sent (true/false)
+
+Logic:
+
+Admin category filter ചെയ്യുന്നു
+
+Slot select ചെയ്യുന്നു
+
+Contestants select ചെയ്യുന്നു
+
+Assign button click
+
+System check ചെയ്യും:
+
+Slot capacity full ആണോ?
+
+Profile completed ആണോ?
+
+🧱 PART 3: Category-wise Invitation Sending
+
+Invitation automatic + bulk ആയി പോകണം.
+
+📩 Invitation Flow (Step-by-step)
+
+Admin:
+
+Category select ചെയ്യുന്നു
+
+Slot select ചെയ്യുന്നു
+
+“Send Invitation” button click
+
+System internally:
+
+SlotAssignment list fetch ചെയ്യും
+
+Email content generate ചെയ്യും
+
+SMS content generate ചെയ്യും
+
+Send Email + SMS
+
+invitation_sent = true mark ചെയ്യും
+
+✉️ Invitation Content (Dynamic)
+
+Email / SMS-ൽ:
+
+Candidate name
+
+Category name
+
+Venue
+
+Date
+
+Time
+
+Downloadable PDF invitation link
+
+🖥️ Contestant Side (Profile View)
+
+Contestant login ചെയ്താൽ:
+
+Category name കാണും
+
+Audition date / time / venue കാണും
+
+Invitation letter download option
+
+🔐 Safety & Control Rules
+
+✔ Admin slot change ചെയ്താൽ:
+
+New email + SMS auto send
+
+✔ Slot closed ആയാൽ:
+
+New assignment block
+
+✔ Category lock option:
+
+Category finalize ആയാൽ further changes block
+
+🔄 Complete Flow (One Line)
+
+Contestant profile complete →
+Admin assigns category →
+Admin creates category-wise slots →
+Admin assigns contestants to slots →
+System sends category-wise invitations automatically
+
+🧠 Why This Design Is Best
+
+✔ Clean & scalable
+✔ Handles 1 lakh+ users
+✔ Easy category-wise control
+✔ No manual confusion
+✔ Audit friendly
+
+🎤 Simple Spoken Summary
+
+“Contestant profile complete ആയാൽ Admin backend-ൽ category assign ചെയ്യും.
+Admin category-wise audition slots create ചെയ്യും — venue, date, time എല്ലാം separate ആയി.
+Candidates slot-ലേക്ക് assign ചെയ്താൽ system automatic ആയി email & SMS invitation അയക്കും.”
+
+നിനക്ക് next step ആയി ഞാൻ:
+
+✅ DB tables with exact fields
+
+✅ Admin dashboard screen flow
+
+✅ API list (Django / Node)
+
+✅ Cursor prompt to generate this module
+
+ഇതിലേതാണ് next വേണേ?
+
+ the all apis to implement this logic in english
+
+Perfect 👍
+Below is a clean, complete, real-world API list to implement category-wise visibility + slot assignment + invitation sending.
+This is written in plain English, backend-agnostic (works for Django / Node / Spring).
+
+🔐 AUTH & BASIC
+1. Admin Login
+
+POST /api/admin/login
+
+Email, password
+
+Returns admin token
+
+👤 CONTESTANT PROFILE APIs
+2. Get All Contestants (Completed Profiles)
+
+GET /api/admin/contestants?profile_status=completed
+
+Used to see all eligible contestants
+
+3. Assign Category to Contestant
+
+POST /api/admin/contestants/{contestant_id}/assign-category
+Body
+
+{
+  "category_id": 5
+}
+
+
+Admin assigns category after profile completion
+
+4. Get Contestants Category-Wise
+
+GET /api/admin/contestants?category_id=5
+
+Used for category tabs / filters
+
+🗂️ CATEGORY MANAGEMENT APIs
+5. Get All Categories
+
+GET /api/admin/categories
+
+List of 16 categories
+
+6. Lock Category (No Further Changes)
+
+POST /api/admin/categories/{category_id}/lock
+
+Prevent reassignment after finalization
+
+📅 AUDITION SLOT MANAGEMENT APIs
+7. Create Audition Slot
+
+POST /api/admin/slots
+Body
+
+{
+  "category_id": 5,
+  "venue": "Calicut Town Hall",
+  "date": "2026-03-10",
+  "start_time": "10:00",
+  "end_time": "13:00",
+  "max_capacity": 60
+}
+
+8. Get Slots by Category
+
+GET /api/admin/slots?category_id=5
+
+Admin selects slot before assigning contestants
+
+9. Update Slot (Time / Venue Change)
+
+PUT /api/admin/slots/{slot_id}
+
+Change date / time / venue
+
+Triggers auto notification
+
+10. Close Slot
+
+POST /api/admin/slots/{slot_id}/close
+
+Prevent new assignments
+
+🔗 SLOT ASSIGNMENT APIs
+11. Assign Contestants to Slot (Bulk)
+
+POST /api/admin/slot-assignments
+Body
+
+{
+  "slot_id": 12,
+  "contestant_ids": [101, 102, 103]
+}
+
+
+Capacity validation handled internally
+
+12. Get Contestants Assigned to Slot
+
+GET /api/admin/slots/{slot_id}/contestants
+
+13. Remove Contestant from Slot
+
+DELETE /api/admin/slot-assignments/{assignment_id}
+
+Used for rescheduling
+
+📩 INVITATION & NOTIFICATION APIs
+14. Send Category-Wise Invitations
+
+POST /api/admin/slots/{slot_id}/send-invitations
+
+Sends Email + SMS
+
+Updates invitation_sent = true
+
+15. Resend Invitation (Single Candidate)
+
+POST /api/admin/slot-assignments/{assignment_id}/resend-invitation
+
+16. Generate Invitation PDF
+
+GET /api/invitations/{assignment_id}/pdf
+
+Used for download & email attachment
+
+👁️ CONTESTANT SIDE APIs
+17. Get Contestant Dashboard Data
+
+GET /api/contestant/dashboard
+
+Shows:
+
+Category
+
+Slot details
+
+Invitation status
+
+18. Download Invitation Letter
+
+GET /api/contestant/invitation/pdf
+
+📊 ADMIN MONITORING APIs
+19. Category Summary
+
+GET /api/admin/categories/{category_id}/summary
+
+Total contestants
+
+Assigned
+
+Pending
+
+Slots count
+
+20. Slot Capacity Check
+
+GET /api/admin/slots/{slot_id}/capacity
+
+Shows remaining seats
+
+🔔 AUTOMATION & SYSTEM APIs
+21. Auto Notify on Slot Change
+
+INTERNAL
+
+Triggered when slot updated
+
+Sends updated email/SMS
+
+22. Audit Log
+
+GET /api/admin/audit-logs
+
+Tracks:
+
+Category assignment
+
+Slot changes
+
+Invitation sent
+
+🧠 BUSINESS RULES (Enforced in Backend)
+
+✔ Profile must be completed
+✔ Category must be assigned before slot
+✔ Slot capacity cannot exceed limit
+✔ Invitation only after slot assignment
+✔ Slot change → auto notify
+
+🔁 END-TO-END FLOW (API Sequence)
+
+1️⃣ Contestant completes profile
+2️⃣ Admin assigns category → API #3
+3️⃣ Admin creates slot → API #7
+4️⃣ Admin assigns contestants → API #11
+5️⃣ Admin sends invitations → API #14
+6️⃣ Contestant views invitation → API #17
+
+🎤 Simple One-Line Summary
+
+“These APIs allow admins to view contestants category-wise, create category-specific audition slots with different venues and times, assign contestants in bulk, and automatically send invitations via email and SMS.”
+
+If you want next:
+
+✅ Exact DB schema
+
+✅ Django REST implementation
+
+✅ Postman collection
+
+✅ Cursor prompt to generate all APIs
+
+Tell me what to do next 🚀
