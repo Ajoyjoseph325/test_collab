@@ -4,3 +4,42 @@ hello ,
 new branch
 welcome to GitHub
 new begning
+പ്പൊ manual ആയി നടക്കുന്ന
+registration, audition, judging, selection, training, finale
+ഇവ എല്ലാം ഒറ്റ website + ഒറ്റ software വഴി handle ചെയ്യാനാണ് ഈ project.
+
+👉 Registration മുതൽ
+👉 Audition
+👉 Judging (3 rounds)
+👉 Training
+👉 Goa National Finale
+👉 Dubai International Grand Finale
+
+ഇവ എല്ലാം step by step system control ചെയ്യും.
+
+👥 System-ൽ ഉള്ള ആളുകൾ (Roles)
+
+ഈ system-ൽ എല്ലാവർക്കും same power ഇല്ല.
+Role-based access ആണ്.
+
+🔴 SuperAdmin (Company Owner – Sparrot Media)
+
+SuperAdmin എന്നാണ് പറയുന്നത് company owner level.
+
+SuperAdmin ചെയ്യുന്നത്:
+
+Registration open / close ചെയ്യാം
+
+Admin accounts create / delete ചെയ്യാം
+
+Judges assign ചെയ്യാം
+
+Final results approve ചെയ്യാം
+
+Tie case വന്നാൽ final decision എടുക്കും
+
+Payment, GST, revenue report കാണും
+
+Emergency situation-ൽ system lock ചെയ്യാം
+
+👉 Final authority always SuperAdmin-ന്റെ കൈയിലാണ്.
